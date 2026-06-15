@@ -12,3 +12,21 @@ PHÂN TÍCH AUTH.LOG
 - `capture.py`, `analyze...`: Code chạy trên máy chủ Ubuntu.
 - `*.csv`: Dữ liệu log và gói tin thu thập được.
 - `Trucquanhoa.ipynb`: Code Pandas/Matplotlib vẽ biểu đồ.
+
+
+**GV hướng dẫn:** [Cao Diệp Thắng]
+**Nhóm:** 11 — Lớp DHKL17A1HN
+
+---
+
+### 📁 Cấu trúc thư mục nộp bài
+
+```text
+BTL13/
+├── analyze_authlog.py       # Phân tích auth.log để bóc tách IP tấn công
+├── capture.py               # Chạy nền TShark để bắt traffic mạng LAN ảo
+├── collector.py             # Tổng hợp dữ liệu thành định dạng cấu trúc
+├── Application_Data.csv     # Dataset tầng ứng dụng (Log đăng nhập SSH)
+├── Packet_Network_Data.csv  # Dataset tầng mạng (Thông tin gói tin)
+├── Trucquanhoa.ipynb        # Code Jupyter vẽ biểu đồ bằng Pandas/Matplotlib
+└── Bao_cao_Nhom_11.pdf      # Báo cáo tổng kết hoàn chỉnh
