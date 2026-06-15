@@ -4,7 +4,7 @@ PHÂN TÍCH AUTH.LOG
 
 
 **Thành viên nhóm:**
-1. Tạ Văn Sỹ - 23174600009 - DHKL17A1HN
+1. Tạ Văn Sỹ - 23174600009 - DHKL17A1HN (Nhóm trưởng)
 2. Nguyễn Huy Hoàng - 23174600010 - DHKL17A1HN
 3. Phạm Hồng Ánh - 23174600040 - DHKL17A1HN
 
